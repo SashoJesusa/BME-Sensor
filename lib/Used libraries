@@ -1,0 +1,6 @@
+ESP8266WiFi.h
+ESP8266WebServer.h
+PubSubClient.h
+Wire.h
+Adafruit_Sensor.h
+Adafruit_BME680.h
